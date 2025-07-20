@@ -2,7 +2,7 @@
   "name": "debate-platform-backend",
   "version": "1.0.0",
   "description": "Backend API for AI-powered debate platform",
-  "main": "server.js",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon src/server.ts",
     "dev:js": "nodemon --exec \"node -r ts-node/register\" src/server.ts",
