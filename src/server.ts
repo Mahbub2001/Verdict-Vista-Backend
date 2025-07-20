@@ -1,4 +1,4 @@
-import app from '../index'
+import app from "./app"
 import { disconnectDB } from './config/database';
 
 const PORT = process.env.PORT || 5000;
